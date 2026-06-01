@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="extension/assets/VeriFeed-Logo.png" alt="VeriFeed Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/gwenndestura/VeriFeed/main/extension/assets/VeriFeed-Logo.png" alt="VeriFeed Logo" width="200" />
 
   <h1>VeriFeed</h1>
 
