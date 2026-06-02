@@ -16,6 +16,16 @@
 
 ---
 
+## Related Repositories
+
+| Repository | Description |
+|---|---|
+| [VeriFeed-Frontend](https://github.com/christinaesico456/VeriFeed-Frontend) | Main website frontend |
+| [VeriFeed-Backend](https://github.com/christinaesico456/VeriFeed-Backend) | Main website backend |
+| [VeriFeed (this repo)](https://github.com/gwenndestura/VeriFeed) | Browser extension + deepfake detection API |
+
+---
+
 ## Overview
 
 **VeriFeed** is a deepfake video detection system built as a Chrome/Firefox browser extension with a Flask-powered AI backend. As users browse Facebook, VeriFeed analyzes videos in real time, classifying them as **REAL** or **FAKE** with a confidence score. The system uses a ResNeXt50 + Bidirectional LSTM neural network trained on the DFDC dataset, achieving **91.43% accuracy**.
