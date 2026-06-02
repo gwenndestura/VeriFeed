@@ -20,8 +20,9 @@
 
 | Repository | Description |
 |---|---|
-| [VeriFeed-Frontend](https://github.com/christinaesico456/VeriFeed-Frontend) | Main website / landing page for VeriFeed |
-| [VeriFeed (this repo)](https://github.com/gwenndestura/VeriFeed) | Browser extension + Flask backend |
+| [VeriFeed-Frontend](https://github.com/christinaesico456/VeriFeed-Frontend) | Main website frontend |
+| [VeriFeed-Backend](https://github.com/christinaesico456/VeriFeed-Backend) | Main website backend |
+| [VeriFeed (this repo)](https://github.com/gwenndestura/VeriFeed) | Browser extension + deepfake detection API |
 
 ---
 
